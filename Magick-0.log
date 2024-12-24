@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<log>
+  <event>2024-01-18T00:36:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:36:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:36:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:36:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:36:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:36:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:36:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9159]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-18T00:36:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9619]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:36:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9619]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:36:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9619]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:36:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9619]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:36:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9619]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:36:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9619]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:36:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9619]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9622]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9622]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9622]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9622]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9622]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9622]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9622]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:36:08+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9625]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9635]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9635]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9635]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9635]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9635]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9635]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9635]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9636]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9636]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9636]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9636]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9636]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9636]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9636]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.200 0.050u 6.9.10 Wand php8.2[9636]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.200 0.050u 6.9.10 Wand php8.2[9636]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.510 0.090u 6.9.10 Wand php8.2[9636]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-1</event>
+  <event>2024-01-18T00:38:07+01:00 0:00.510 0.090u 6.9.10 Wand php8.2[9636]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-1</event>
+<log>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9676]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9676]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9676]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9676]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9676]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9676]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9676]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9679]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9679]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9679]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9679]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9679]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9679]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:38:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9679]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
+<log>
+  <event>2024-01-18T00:39:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1011]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:39:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1011]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:39:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1011]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:39:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1011]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:39:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1011]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:39:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1011]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:39:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1011]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-18T00:40:32+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1217]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:40:32+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1217]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-18T00:40:32+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1217]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-18T00:40:32+01:00 0:00.010 0.000u 6.9.10 Configure php8.2[1217]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-18T00:40:32+01:00 0:00.010 0.000u 6.9.10 Configure php8.2[1217]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-18T00:40:32+01:00 0:00.010 0.000u 6.9.10 Configure php8.2[1217]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-18T00:40:32+01:00 0:00.010 0.000u 6.9.10 Configure php8.2[1217]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5541]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5541]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5541]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5541]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5541]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5541]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5541]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5542]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5542]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5542]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5542]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5542]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5542]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5542]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.080 0.060u 6.9.10 Wand php8.2[5542]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.080 0.060u 6.9.10 Wand php8.2[5542]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.380 0.100u 6.9.10 Wand php8.2[5542]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-1</event>
+  <event>2024-01-19T00:26:59+01:00 0:00.380 0.100u 6.9.10 Wand php8.2[5542]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-1</event>
+  <event>2024-01-19T00:27:00+01:00 0:01.420 0.230u 6.9.10 Wand php8.2[5542]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-2</event>
+  <event>2024-01-19T00:27:00+01:00 0:01.420 0.230u 6.9.10 Wand php8.2[5542]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-2</event>
+<log>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5570]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5570]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5570]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5570]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5570]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5570]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5570]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5573]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5573]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5573]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5573]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5573]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5573]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-19T00:27:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[5573]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
+<log>
+  <event>2024-01-20T15:46:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1915]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-20T15:46:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1915]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-20T15:46:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1915]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-20T15:46:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1915]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-20T15:46:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1915]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-20T15:46:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1915]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-20T15:46:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1915]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-20T15:54:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2242]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-20T15:54:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2242]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-20T15:54:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2242]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-20T15:54:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2242]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-20T15:54:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2242]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-20T15:54:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2242]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-20T15:54:09+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2242]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-20T15:56:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2324]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-20T15:56:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2324]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-20T15:56:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2324]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-20T15:56:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2324]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-20T15:56:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2324]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-20T15:56:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2324]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-20T15:56:37+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2324]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T12:11:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1346]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T12:11:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1346]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T12:11:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1346]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T12:11:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1346]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T12:11:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1346]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T12:11:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1346]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T12:11:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1346]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T12:17:36+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1511]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T12:17:36+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1511]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T12:17:36+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1511]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T12:17:36+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1511]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T12:17:36+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1511]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T12:17:36+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1511]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T12:17:36+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1511]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T12:18:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1560]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T12:18:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1560]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T12:18:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1560]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T12:18:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1560]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T12:18:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1560]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T12:18:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1560]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T12:18:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1560]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T12:30:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1608]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T12:30:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1608]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T12:30:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1608]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T12:30:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1608]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T12:30:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1608]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T12:30:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1608]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T12:30:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1608]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T13:35:20+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1790]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T13:35:20+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1790]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T13:35:20+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1790]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T13:35:20+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1790]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T13:35:20+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1790]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T13:35:20+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1790]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T13:35:20+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1790]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T13:35:25+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1820]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T13:35:25+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1820]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T13:35:25+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1820]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T13:35:25+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1820]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T13:35:25+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1820]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T13:35:25+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1820]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T13:35:25+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1820]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T13:35:34+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1848]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T13:35:34+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1848]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T13:35:34+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1848]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T13:35:34+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1848]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T13:35:34+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1848]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T13:35:34+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1848]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T13:35:34+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1848]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T13:52:47+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1924]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T13:52:47+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1924]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T13:52:47+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1924]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T13:52:47+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1924]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T13:52:47+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1924]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T13:52:47+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1924]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T13:52:47+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1924]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T22:07:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2759]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:07:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2759]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T22:07:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2759]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:07:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2759]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T22:07:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2759]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T22:07:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2759]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T22:07:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[2759]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T22:33:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3087]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:33:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3087]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T22:33:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3087]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:33:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3087]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T22:33:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3087]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T22:33:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3087]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T22:33:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3087]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T22:38:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3222]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:38:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3222]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T22:38:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3222]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:38:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3222]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T22:38:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3222]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T22:38:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3222]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T22:38:55+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3222]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T22:40:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3295]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:40:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3295]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T22:40:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3295]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:40:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3295]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T22:40:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3295]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T22:40:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3295]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T22:40:35+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3295]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T22:42:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3321]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:42:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3321]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T22:42:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3321]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T22:42:03+01:00 0:00.010 0.000u 6.9.10 Configure php8.2[3321]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T22:42:03+01:00 0:00.010 0.000u 6.9.10 Configure php8.2[3321]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T22:42:03+01:00 0:00.010 0.000u 6.9.10 Configure php8.2[3321]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T22:42:03+01:00 0:00.010 0.000u 6.9.10 Configure php8.2[3321]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-21T23:01:22+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3433]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T23:01:22+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3433]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-21T23:01:22+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3433]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-21T23:01:22+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3433]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-21T23:01:22+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3433]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-21T23:01:22+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3433]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-21T23:01:22+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[3433]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9928]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9928]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9928]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9928]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9928]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9928]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9928]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9929]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9929]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9929]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9929]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9929]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9929]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9929]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.080 0.060u 6.9.10 Wand php8.2[9929]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.080 0.060u 6.9.10 Wand php8.2[9929]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.390 0.120u 6.9.10 Wand php8.2[9929]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-1</event>
+  <event>2024-01-27T23:17:15+01:00 0:00.390 0.120u 6.9.10 Wand php8.2[9929]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-1</event>
+<log>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9952]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9952]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9952]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9952]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9952]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9952]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9952]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9955]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9955]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9955]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9955]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9955]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9955]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:17:17+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[9955]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
+<log>
+  <event>2024-01-27T23:17:30+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[10088]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:30+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[10088]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:17:30+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[10088]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:17:30+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[10088]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:17:30+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[10088]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:17:30+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[10088]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:17:30+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[10088]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11200]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11200]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11200]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11200]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11200]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11200]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11200]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11201]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11201]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11201]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11201]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11201]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11201]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11201]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.080 0.060u 6.9.10 Wand php8.2[11201]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-27T23:41:26+01:00 0:00.080 0.060u 6.9.10 Wand php8.2[11201]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+<log>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11212]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11212]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11212]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11212]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11212]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11212]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11212]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11218]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11218]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11218]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11218]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11218]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11218]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:41:27+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11218]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
+<log>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11282]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11282]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11282]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11282]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11282]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11282]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11282]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11283]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11283]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11283]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11283]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11283]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11283]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11283]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.080 0.070u 6.9.10 Wand php8.2[11283]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-27T23:43:52+01:00 0:00.080 0.070u 6.9.10 Wand php8.2[11283]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+<log>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11294]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11294]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11294]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11294]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11294]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11294]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11294]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11300]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11300]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11300]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11300]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11300]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11300]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:43:53+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11300]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
+<log>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11328]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11328]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11328]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11328]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11328]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11328]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11328]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11329]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11329]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11329]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11329]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11329]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11329]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11329]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.080 0.060u 6.9.10 Wand php8.2[11329]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-27T23:44:41+01:00 0:00.080 0.060u 6.9.10 Wand php8.2[11329]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+<log>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11345]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11345]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11345]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11345]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11345]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11345]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11345]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11348]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11348]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11348]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11348]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11348]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11348]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:44:42+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11348]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
+<log>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11624]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11624]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11624]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11624]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11624]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11624]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11624]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11625]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11625]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.060 0.060u 6.9.10 Wand php8.2[11625]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-27T23:48:21+01:00 0:00.060 0.060u 6.9.10 Wand php8.2[11625]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+  <event>2024-01-27T23:48:22+01:00 0:00.240 0.090u 6.9.10 Wand php8.2[11625]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-1</event>
+  <event>2024-01-27T23:48:22+01:00 0:00.240 0.090u 6.9.10 Wand php8.2[11625]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-1</event>
+<log>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11648]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11648]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11648]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11648]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11648]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11648]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11648]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11651]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11651]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11651]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11651]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11651]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11651]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-27T23:48:23+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[11651]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
+<log>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1142]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1142]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1142]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1142]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1142]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1142]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1142]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1143]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1143]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1143]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1143]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1143]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1143]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1143]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.080 0.070u 6.9.10 Wand php8.2[1143]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-29T23:55:04+01:00 0:00.080 0.070u 6.9.10 Wand php8.2[1143]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+<log>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1159]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1159]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1162]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1162]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1162]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1162]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1162]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1162]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-29T23:55:07+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1162]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
+<log>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1447]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1447]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1447]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1447]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1447]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1447]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1447]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+<log>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1448]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1448]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1448]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1448]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1448]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1448]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1448]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.060 0.060u 6.9.10 Wand php8.2[1448]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-0</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.060 0.060u 6.9.10 Wand php8.2[1448]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-0</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.230 0.080u 6.9.10 Wand php8.2[1448]: magick-wand.c/NewMagickWand/1090/Wand
+  MagickWand-1</event>
+  <event>2024-01-30T00:52:03+01:00 0:00.230 0.080u 6.9.10 Wand php8.2[1448]: magick-wand.c/DestroyMagickWand/174/Wand
+  MagickWand-1</event>
+<log>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1470]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1470]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1470]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1470]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1470]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1470]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1470]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+<log>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1473]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1473]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/lib/x86_64-linux-gnu/ImageMagick-6.9.10//config-Q16/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1473]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/etc/ImageMagick-6/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1473]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/usr/share/doc/imagemagick-6-common/htmlpolicy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1473]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.config/ImageMagick/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1473]: configure.c/GetConfigureOptions/685/Configure
+  Searching for configure file: "/home/marcel/.magick/policy.xml"</event>
+  <event>2024-01-30T00:52:05+01:00 0:00.000 0.000u 6.9.10 Configure php8.2[1473]: policy.c/LoadPolicyCache/783/Configure
+  Loading policy file "/etc/ImageMagick-6/policy.xml" ...</event>
+</log>
+</log>
+</log>
